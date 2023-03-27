@@ -1,0 +1,66 @@
+{"Broker_Name":"Joshua Olshin","Phone_Number":"(800) 862-4348 ext. 705"}
+{"Broker_Name":"Edward A. Granka","Phone_Number":"(518) 869-5444"}
+{"Broker_Name":"Vicki Schamel","Phone_Number":"(607) 351-6933"}
+{"Broker_Name":"Stacey-Ann Beckford","Phone_Number":"(516) 415-4756"}
+{"Broker_Name":"Jennifer Maher","Phone_Number":"(914) 210-1010"}
+{"Broker_Name":"James Prendamano","Phone_Number":"718200779"}
+{"Broker_Name":"Cheryl Juan","Phone_Number":"(917) 863-4342"}
+{"Broker_Name":"Silvio Perez III","Phone_Number":"(206) 445-4798"}
+{"Broker_Name":"Tim Petrou","Phone_Number":"(516) 476-1972"}
+{"Broker_Name":"Tom Fochtman","Phone_Number":"(303) 974-7577"}
+{"Broker_Name":"Cliff Reiter","Phone_Number":"(914) 722-1029"}
+{"Broker_Name":"Marwan Nabulsi","Phone_Number":"(877) 465-2345"}
+{"Broker_Name":"Adam Veit","Phone_Number":"(646) 500-3473"}
+{"Broker_Name":"Richard Menchel","Phone_Number":"(917) 705-0739"}
+{"Broker_Name":"Raymond Palmer MBA, ABI","Phone_Number":"(917) 863-7456"}
+{"Broker_Name":"Christine DeHart","Phone_Number":"(718) 273-1200"}
+{"Broker_Name":"Joe Paddock, CPA, MBA","Phone_Number":"(979) 977-2288"}
+{"Broker_Name":"Francis Bachurski","Phone_Number":"(412) 708-7069"}
+{"Broker_Name":"Duane Edmonds","Phone_Number":"(315) 883-7908"}
+{"Broker_Name":"Jeff Engle","Phone_Number":"(516) 263-7931"}
+{"Broker_Name":"Anthony Tarricone","Phone_Number":"(914) 559-2522"}
+{"Broker_Name":"James Lindner","Phone_Number":"(917) 528-6215"}
+{"Broker_Name":"Tony Torella","Phone_Number":"(212) 686-5790"}
+{"Broker_Name":"Arthur Steinberg","Phone_Number":"(718) 338-6300 ext. 101"}
+{"Broker_Name":"Philip Romanino","Phone_Number":"(914) 319-4207"}
+{"Broker_Name":"C.J. (Charlie) Vlahos","Phone_Number":"(203) 746-7272"}
+{"Broker_Name":"Dominic Serra","Phone_Number":"(248) 453-3883"}
+{"Broker_Name":"Kevin Murray","Phone_Number":"(203) 410-8150"}
+{"Broker_Name":"Michael Farruggia","Phone_Number":"(845) 222-2240"}
+{"Broker_Name":"Harry Caruso","Phone_Number":"(332) 209-4246"}
+{"Broker_Name":"Gregory Carafello","Phone_Number":"(973) 632-2192"}
+{"Broker_Name":"Angelo A. Ferrara","Phone_Number":"(516) 739-0346"}
+{"Broker_Name":"Gil Tatarsky","Phone_Number":"(917) 670-0450"}
+{"Broker_Name":"Tom Vondell","Phone_Number":"(833) 866-3355"}
+{"Broker_Name":"Sundeep Gill","Phone_Number":"(516) 218-1590"}
+{"Broker_Name":"Robert Wittenberg","Phone_Number":"(516) 502-9072"}
+{"Broker_Name":"Lidia Couzo","Phone_Number":"(716) 465-6275"}
+{"Broker_Name":"Sherry Bauer","Phone_Number":"(814) 453-2000"}
+{"Broker_Name":"Michael Dukhovny","Phone_Number":"(718) 979-8000"}
+{"Broker_Name":"Daz Connell","Phone_Number":"(201) 314-4433"}
+{"Broker_Name":"Kam Chong","Phone_Number":"(917) 902-0473"}
+{"Broker_Name":"J.C. Kapas Real Estate Company","Phone_Number":"(201) 845-3700"}
+{"Broker_Name":"Joshua Carnes","Phone_Number":"(512) 721-8683"}
+{"Broker_Name":"Elio Serpa","Phone_Number":"(407) 558-8640"}
+{"Broker_Name":"James Shin, MBA, CBI","Phone_Number":"(626) 484-7797"}
+{"Broker_Name":"Marc Lazarus","Phone_Number":"(201) 370-9600"}
+{"Broker_Name":"Harriet Karlin","Phone_Number":"(201) 966-4316"}
+{"Broker_Name":"Sylvain (Frank) Chouen","Phone_Number":"(800) 801-5519"}
+{"Broker_Name":"Tom Gesimondo","Phone_Number":"(855) 483-9675 ext. 2"}
+{"Broker_Name":"Bilal Khaliq,CBB.","Phone_Number":"(708) 969-1104"}
+{"Broker_Name":"Vishal Bharucha, CBI, CM&AP, CEPA","Phone_Number":"(877) 264-7355"}
+{"Broker_Name":"Debra Janusz","Phone_Number":"(631) 459-1711"}
+{"Broker_Name":"Ziggy Marszalek","Phone_Number":"(516) 364-2641"}
+{"Broker_Name":"MEL LISITEN","Phone_Number":"(212) 661-4160"}
+{"Broker_Name":"Latona's Brokerage","Phone_Number":"(678) 506-0177"}
+{"Broker_Name":"Erten Musa","Phone_Number":"(443) 823-3812"}
+{"Broker_Name":"Darren Smith","Phone_Number":"(973) 996-1168"}
+{"Broker_Name":"Rick Carlson","Phone_Number":"(833) 776-6682"}
+{"Broker_Name":"Henry Galasso","Phone_Number":"(888) 406-7759"}
+{"Broker_Name":"Vested Business Brokers, Ltd","Phone_Number":"(877) 735-5224"}
+{"Broker_Name":"Kingsley Allison","Phone_Number":"(914) 363-7733"}
+{"Broker_Name":"Jay M. Inbar, Certified Mergers&Acquisition Pro","Phone_Number":"(212) 473-5000"}
+{"Broker_Name":"Raaz Ali, MBA, CBI, M&AMI, CM&AA","Phone_Number":"(703) 752-6178"}
+{"Broker_Name":"Hedgestone Business Advisors","Phone_Number":"(561) 593-3711"}
+{"Broker_Name":"Transworld Business Advisors","Phone_Number":"(917) 719-5920"}
+{"Broker_Name":"Blake Taylor","Phone_Number":"(914) 738-9350"}
